@@ -1,0 +1,2 @@
+org/pruebasCh/tesitng/tes/TestSelenium.java
+ org.pruebasCh.tesitng.tes.TestSelenium
